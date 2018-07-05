@@ -1,0 +1,17 @@
+// html {
+// 	font-family: "Roboto",sans-serif;
+// }
+
+.main {
+    background-color: rgba(#333333, 0.1);
+}
+
+@import "layout/dashboard";
+
+.pd-top-40 {
+    padding-top: 40px;
+}
+
+.btn-wd {
+    margin: 0 auto;
+}
